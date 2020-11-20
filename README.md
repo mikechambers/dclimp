@@ -1,7 +1,7 @@
 # dclimp
 Python 3 based command line utility for checking and syncing the Destiny 2 Manifest SQLite database.
 
-This utility has been superseded by [dclim](https://github.com/mikechambers/dcli/tree/main/src/dclim).
+This project has been superseded by [dcli](https://github.com/mikechambers/dcli).
 
 The utility can be used to:
 
